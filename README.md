@@ -89,7 +89,7 @@ plt.show()
 ```
 <img width="1097" height="658" alt="image" src="https://github.com/user-attachments/assets/6bd5c61f-55cc-4605-bb0a-3c0117b70ee8" />
 
-## Adaptive Thresholding
+## Otsu's Thresholding
 ```
 import cv2
 import matplotlib.pyplot as plt
@@ -107,7 +107,7 @@ plt.show()
 ```
 <img width="1100" height="659" alt="image" src="https://github.com/user-attachments/assets/c61282d9-b80d-4e53-a3a7-a837b30a0358" />
 
-## Otsu's Thresholding
+## Adaptive Thresholding 
 ```
 import cv2
 import matplotlib.pyplot as plt
